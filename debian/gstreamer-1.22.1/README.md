@@ -6,7 +6,7 @@ sudo apt-get install -y \
   build-essential meson ninja-build git pkg-config libglib2.0-dev \
   flex bison libx11-dev libgl1-mesa-dev libegl1-mesa-dev libgles2-mesa-dev \
   libdrm-dev libgbm-dev libgudev-1.0-dev libx11-xcb-dev libwayland-dev \
-  wayland-protocols libgtk-3-dev libfdk-aac-dev
+  wayland-protocols libgtk-3-dev libfdk-aac-dev libva-dev
 ```
 
 ## 2. Fetch source code
